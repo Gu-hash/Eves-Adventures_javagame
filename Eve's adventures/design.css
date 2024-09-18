@@ -13,21 +13,23 @@ header{
 
 header h1{
     font-size: 100px;
-    color: white;
+    color: gold;
+    text-shadow: 1px 1px 2px black;
 }
 
 header nav li{
   height: 103px;
   width: 104px;
-  border: 5px solid gold;
+  border: 5px solid lightskyblue;
   border-radius: 30%;
   font-size: 25px;
+  font-weight: bold;
   display: inline-block;
   box-sizing: border-box;
   margin-right: 60px;
   line-height:1.5 ;
   color: white;
-  
+  text-shadow: 1px 1px 2px black;
 }
 
 header a{
@@ -37,14 +39,16 @@ header a{
 
 h2{
     font-size: 40px;
+    text-shadow: 1px 1px 2px black;
 }
 
 h3{
     font-size: 30px;
+    text-shadow: 1px 1px 2px grey;
 }
 
 main #about{
-    background-color: aliceblue;
+    background-color: rgb(245, 205, 211);
 }
 
 main #howtoplay{
@@ -52,7 +56,7 @@ main #howtoplay{
 }
 
 main #gamevideo{
-    background-color: lightpink;
+    background-color: rgb(247, 201, 196);
 }
 
 main #context{
@@ -62,4 +66,8 @@ figure img{
     height: 300px;
     width: 300px;
     
+}
+
+footer{
+    background-color: rgb(190, 223, 243);
 }
