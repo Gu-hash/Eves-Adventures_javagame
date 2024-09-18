@@ -18,7 +18,7 @@ header h1{
 
 header nav li{
   height: 103px;
-  width: 103px;
+  width: 104px;
   border: 5px solid gold;
   border-radius: 30%;
   font-size: 20px;
@@ -27,4 +27,11 @@ header nav li{
   margin-right: 60px;
   line-height:1.5 ;
   color: white;
+  
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
