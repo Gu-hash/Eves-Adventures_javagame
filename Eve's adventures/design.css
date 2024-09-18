@@ -1,5 +1,9 @@
 *{
     text-align: center;
     font-family: goudy old style;
-    font-size: 20px;
+}
+
+img {
+    width: 100%;
+    height: 400px;
 }
