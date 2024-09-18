@@ -6,7 +6,7 @@
 
 header{
     background-image: url(greenleaves.jpg);
-    height: 300px;
+    height: 100%;
     width: 100%;
 }
 
@@ -43,10 +43,21 @@ h3{
     font-size: 30px;
 }
 
-main{
+main #about{
     background-color: aliceblue;
 }
 
+main #howtoplay{
+    background-color: blanchedalmond;
+}
+
+main #gamevideo{
+    background-color: lightpink;
+}
+
+main #context{
+    background-color: lavender;
+}
 figure img{
     height: 300px;
     width: 300px;
